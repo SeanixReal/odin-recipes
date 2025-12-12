@@ -2,6 +2,10 @@
 
 A collection of delicious recipes with a clean, modern web interface. This project showcases HTML and CSS skills while providing easy access to various recipes.
 
+## Live Demo
+
+Check out the live site: [https://seanix-odin-recipe.vercel.app/](https://seanix-odin-recipe.vercel.app/)
+
 ## Features
 
 - Clean and responsive recipe pages
@@ -18,9 +22,9 @@ A collection of delicious recipes with a clean, modern web interface. This proje
 ## Resources & References
 
 ### Image Credits
-- **Creamy Pepperoni Chicken** - Image by [fabeveryday](https://www.fabeveryday.com/)
-- **Potato Latkes** - Image by [QiAi](https://www.allrecipes.com/)
-- **Yorkshire Pudding** - Image by [dotdash](https://www.dotdash.com/)
+- **Creamy Pepperoni Chicken** - Image by fabeveryday
+- **Potato Latkes** - Image by QiAi
+- **Yorkshire Pudding** - Image by dotdash
 
 ### Tools & Libraries
 - [Google Fonts - Montserrat](https://fonts.google.com/specimen/Montserrat) - Custom typography
@@ -41,4 +45,3 @@ Created by **seanix** as part of The Odin Project.
 ---
 
 © 2024 seanix. All rights reserved.
-
